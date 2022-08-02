@@ -1,3 +1,5 @@
+package _3;
+
 public class Drawing {
     private Shape shape1;
     private Shape shape2;
